@@ -129,7 +129,7 @@ CREATE TABLE tipo_servico (
     id_funcionario, id_cliente)
 VALUES
 (1, 'Troca de Óleo', '2025-06-01 09:00:00', 120.00, 
- 'Óleo 10W40 + Filtro', '0000-00-00 00:30:00', 'Troca de óleo lubrificante e filtro', tipo_servico
+ 'Óleo 10W40 + Filtro', '0000-00-00 00:30:00', 'Troca de óleo lubrificante e filtro',
  100000000000001, 1),
 (2, 'Alinhamento e Balanceamento', '2025-06-02 10:30:00', 180.00, 
  'Pesos e ferramentas de alinhamento', '0000-00-00 01:00:00', 'Correção da geometria da suspensão e balanceamento das rodas', 
